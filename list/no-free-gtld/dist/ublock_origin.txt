@@ -1,0 +1,47 @@
+! SPDX-License-Identifier: CC-BY-4.0
+! Generated-Date: 2023-05-03T14:47:50,803092804+0900
+! Git-Commit: b5f0484636599ba96df6d6f3522d394b55fc462d
+! Description: This file blocks access to 'free gTLD', one may feel this is pedantic.
+! Blanket rules
+*.tk
+*.ml
+*.ga
+*.cf
+*.gq
+! Known exception, fetched from Wikidata
+@@www.essor.ml
+@@agpgabon.ga
+@@www.lesechos.ml
+@@ou7zytv3h2yaosqq.f101.ml
+@@arcipelago.ml
+@@strassenauszucker.tk
+@@www.tcl.tk
+@@tvgelive.gq
+@@www.elt-lectura.cf
+@@tkhtml.tcl.tk
+@@jim.tcl.tk
+@@www.rmndxcc.tk
+@@scikit.ml
+@@interpret.ml
+@@core.tcl.tk
+@@prevete.ml
+@@tkhtml.tcl.tk
+@@knightbladegame.ml
+@@www.stripedpandastudios.ml
+@@achpile.tk
+@@achpile.tk
+@@www.sociallyapp.tk
+@@team-darkness.tk
+@@ijre.tk
+@@eastshare.tk
+@@join.lemmy.ml
+@@www.n64database.tk
+@@www.ligustinus.tk
+@@riid.tk
+@@clear.ml
+@@m7tv.ml
+@@nashkrai.ga
+@@imjbr.arcaeducacional.ga
+@@www.epub.digitalnabiblioteka.tk
+@@www.rn1063.tk
+@@team-darkness.tk
